@@ -1,0 +1,1 @@
+# Adventure_works2016_And_other_SQL_server_Problems_solving
